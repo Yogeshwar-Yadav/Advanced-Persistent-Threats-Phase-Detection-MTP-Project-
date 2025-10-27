@@ -1,0 +1,2 @@
+Precision (Macro),Recall (Macro),F1-Score (Macro),Precision (Weighted),Recall (Weighted),F1-Score (Weighted),True Positive Rate (TPR),False Negative Rate (FNR),False Positive Rate (FPR)
+0.9998414921561928,0.9911246979455999,0.9954509729886649,0.9998524730599437,0.9998524832532069,0.999851953590044,0.9998524832532069,0.00014751674679314153,0.0

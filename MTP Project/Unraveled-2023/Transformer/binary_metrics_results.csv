@@ -1,0 +1,2 @@
+Accuracy,Precision,Recall (TPR),F1-Score,False Positive Rate (FPR),False Negative Rate (FNR),True Negatives (TN),False Positives (FP),False Negatives (FN),True Positives (TP),Total Samples
+0.9998550329253737,1.0,0.9897295623451693,0.9948382745830415,0.0,0.010270437654830718,2706699,0,398,38354,2745451

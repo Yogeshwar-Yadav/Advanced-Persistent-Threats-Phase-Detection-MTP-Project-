@@ -1,0 +1,6 @@
+Stage,Precision,Recall (TPR),F1-Score,False Negative Rate (FNR),False Positive Rate (FPR)
+Benign,0.9999,1.0,0.9999,0.0,0.0103
+Data Exfiltration,1.0,0.984,0.992,0.016,0.0
+Establish Foothold,1.0,0.9997,0.9999,0.0003,0.0
+Lateral Movement,0.9994,0.9872,0.9932,0.0128,0.0
+Reconnaissance,1.0,0.9847,0.9923,0.0153,0.0
